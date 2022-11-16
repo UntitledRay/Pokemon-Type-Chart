@@ -10,7 +10,9 @@ I've since lost my ability to access the account hosting the XY Typechart that I
 Note: I'm not a programmer, so this is also functioning as a weird timeline of my own personal growth on this subject matter. I have a general understanding of how code works, or at the very least I can say that I know how to contextualize a data index to made changes and additions to it, so I have that going for me, which is nice. Obviously I was at one point able to update Tim's project to make the changes present in the XY Typchart, so this will serve as a record of my attempt to not only update that code once again to include more Pokemon, but also to see if I'm able to port it over to github, a platform I've never really used before in any significant capacity. To anyone who sees this:
 
 I'm sorry.
+
 I'm learning.
+
 I'm absolutely open to feedback.
 
 UPDATE - 11/15/2022
